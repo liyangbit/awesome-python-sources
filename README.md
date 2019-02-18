@@ -25,8 +25,8 @@
 
 # Plotly
 
--[Plotly.py](https://github.com/plotly/plotly.py)
--[Plotly Express](https://github.com/plotly/plotly_express)
+- [Plotly.py](https://github.com/plotly/plotly.py)
+- [Plotly Express](https://github.com/plotly/plotly_express)
 
 # Dash
 
