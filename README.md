@@ -33,9 +33,7 @@
 - [Dash](https://github.com/plotly/dash)
 - [Dash Cytoscape](https://github.com/plotly/dash-cytoscape)
 - [dash-daq-monorepo](https://github.com/plotly/dash-daq-monorepo)
-- []()
 - [Plotly-Dashboards-with-Dash](https://github.com/Pierian-Data/Plotly-Dashboards-with-Dash)
-
 
 # 机器学习
 
