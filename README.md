@@ -46,6 +46,8 @@
 - [算法-Python语言](https://github.com/TheAlgorithms/Python)
 - [算法](https://github.com/keon/algorithms)
 
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
 - [吴恩达-机器学习Machine Learning 教程中文笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 - [吴恩达-机器学习要领 Machine Learning Yearning-中文版官方授权翻译仓库](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
 - [吴恩达-机器学习要领 Machine Learning Yearning-其他版本](https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver)
