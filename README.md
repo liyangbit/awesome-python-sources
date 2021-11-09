@@ -2,6 +2,7 @@
 # awesome-python-sources
 
 - [awesome-python-sources](#awesome-python-sources)
+- [综合](#综合)
 - [Pandas](#pandas)
 - [Numpy](#numpy)
 - [Matplotlib](#matplotlib)
@@ -9,6 +10,11 @@
 - [Dash](#dash)
 - [机器学习](#机器学习)
 - [深度学习](#深度学习)
+
+
+# 综合
+
+- [awesome-python](https://github.com/vinta/awesome-python)
 
 # Pandas
 
@@ -38,6 +44,7 @@
 # 机器学习
 
 - [算法-Python语言](https://github.com/TheAlgorithms/Python)
+- [算法](https://github.com/keon/algorithms)
 
 - [吴恩达-机器学习Machine Learning 教程中文笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 - [吴恩达-机器学习要领 Machine Learning Yearning-中文版官方授权翻译仓库](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
